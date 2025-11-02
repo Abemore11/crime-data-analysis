@@ -2,14 +2,16 @@
 
 As a software engineer and data enthusiast, I wanted to deepen my familiarity with the **Python data analysis** ecosystem, including **Pandas, NumPy,** and **Matpoltlib.** I used this project to explore **data cleaning, transformation,** and **visualization** techniques and to strengthen my understanding of how to extract meaningful insights from large-scale public data.
 
-My purpose for developing this analytical program was to gain hands-on experience with real-world **data pipelines** and to practice **storytelling** through **visualization**. By combining structured programming practices with analytical reasoning, I learned how to transform of raw, messy datasets into clear and actionable insights from resulting **descriptive statistics**.
-
-# Data Analysis Results
-
 The dataset analyzed contains **reported crimes in the United States** from **January 2020 to September 2024**,
 including details such as **date and time of occurance, victim sex, crime type, and crime location**, among others. This dataset contains **982,639** reported crimes.
 
-- [Video Walkthrough](https://youtu.be/1f1y0ctI9T8)
+The dataset is not included in this repo due to file size but can be found here: [Kaggle: U.S. Crime Dataset](https://www.kaggle.com/datasets/arpitsinghaiml/u-s-crime-dataset)
+
+My purpose for developing this analytical program was to gain hands-on experience with real-world **data pipelines** and to practice **storytelling** through **visualization**. By combining structured programming practices with analytical reasoning, I learned how to transform of raw, messy datasets into clear and actionable insights from resulting **descriptive statistics**.
+
+[Video Walkthrough](https://youtu.be/1f1y0ctI9T8)
+
+# Data Analysis Results
 
 ### What are the most and least dangerous months, days, and hours based on reported crimes in the U.S.?
 
@@ -44,7 +46,6 @@ including details such as **date and time of occurance, victim sex, crime type, 
 
 # Useful Websites
 
-- [Kaggle: U.S. Crime Dataset](https://www.kaggle.com/datasets/arpitsinghaiml/u-s-crime-dataset) — source dataset
 - [Pandas Documentation](https://pandas.pydata.org/docs/) — reference for data manipulation
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html) — reference for plotting
 - [NumPy Documentation](https://numpy.org/doc/) — reference for numerical operations
